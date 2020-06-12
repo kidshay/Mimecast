@@ -31,8 +31,5 @@ Install the responder using pip3 install -r requirements.txt
 
 
 [https://github.com/TheHive-Project/Cortex-Analyzers/]
-(https://github.com/TheHive-Project/Cortex-Analyzers/)
 [https://github.com/TheHive-Project/CortexDocs/blob/master/api/how-to-create-a-responder.md]
-(https://github.com/TheHive-Project/CortexDocs/blob/master/api/how-to-create-a-responder.md)
 [https://thehive-project.org/]
-(https://thehive-project.org/)
