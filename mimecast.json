@@ -1,0 +1,56 @@
+{
+    "name": "Mimecast Block Url",
+    "version": "1.0",
+    "author": "Shay Grant",
+    "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
+    "license": "AGPL-V3",
+    "description": "Add url to Mimecast blacklist via Mimecast API.",
+    "dataTypeList": ["thehive:case_artifact"],
+    "command": "Mimecast/mimecastapi.py",
+    "baseConfig": "Mimecaast",
+    "configurationItems": [
+      {
+        "name": "base_url",
+        "description": "Base Url for mimecast",
+        "type": "string",
+        "multi": false,
+        "required": true
+      },
+      {
+        "name": "uri",
+        "description": "Endpoint Url of mimecast api",
+        "type": "string",
+        "multi": false,
+        "required": true
+      },
+      {
+        "name": "access_key",
+        "description": "Access key of mimecastapi",
+        "type": "string",
+        "multi": false,
+        "required": true
+      },
+      {
+        "name": "secret_key",
+        "description": "Mimecast secret key ",
+        "type": "string",
+        "multi": false,
+        "required": true
+      },
+      {
+        "name": "app_id",
+        "description": "Mimecast app id",
+        "type": "string",
+        "multi": false,
+        "required": true
+      },
+      {
+        "name": "app_key",
+        "description": "Mimecast app key",
+        "type": "string",
+        "multi": false,
+        "required": true
+      }
+    ]
+  }
+  
