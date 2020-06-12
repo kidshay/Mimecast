@@ -30,6 +30,9 @@ Install the responder using pip3 install -r requirements.txt
 ![Responder Menu](https://github.com/kidshay/Mimecast/raw/master/Screenshots/Capture1.PNG)
 
 
-[https://github.com/TheHive-Project/Cortex-Analyzers/](https://github.com/TheHive-Project/Cortex-Analyzers/)
-[https://github.com/TheHive-Project/CortexDocs/blob/master/api/how-to-create-a-responder.md](https://github.com/TheHive-Project/CortexDocs/blob/master/api/how-to-create-a-responder.md)
-[https://thehive-project.org/](https://thehive-project.org/)
+[https://github.com/TheHive-Project/Cortex-Analyzers/]
+(https://github.com/TheHive-Project/Cortex-Analyzers/)
+[https://github.com/TheHive-Project/CortexDocs/blob/master/api/how-to-create-a-responder.md]
+(https://github.com/TheHive-Project/CortexDocs/blob/master/api/how-to-create-a-responder.md)
+[https://thehive-project.org/]
+(https://thehive-project.org/)
